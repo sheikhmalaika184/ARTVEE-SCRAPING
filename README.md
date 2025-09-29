@@ -4,7 +4,7 @@ It downloads images and extracts metadata such as:
 1. image title
 2. artist
 3. year
-4. refrence and save data in csv format 
+4. refrence 
 
 ## Editing
 Change category easily (line 10 in the script)
