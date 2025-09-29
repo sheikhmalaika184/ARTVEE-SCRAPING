@@ -1,5 +1,13 @@
 # ARTVEE-SCRAPING
-this code download images from "https://artvee.com/" ... also extracts fields(image title, artist, year, refrence) and save data in csv format 
+A lightweight Python script to scrape artworks from "https://artvee.com/"
+It downloads images and extracts metadata such as:
+1. image title
+2. artist
+3. year
+4. refrence and save data in csv format 
 
-Change the driver path at line 9
-change the category at line 10
+## Editing
+Change category easily (line 10 in the script)
+
+## Output
+The data is saved in a clean CSV file(category_name.csv), along with the downloaded images.
